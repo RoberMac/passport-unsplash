@@ -1,0 +1,34 @@
+{
+  "name": "passport-unsplash",
+  "version": "0.1.0",
+  "description": "Unsplash authentication strategy for Passport and Node.js.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RoberMac/passport-unsplash.git"
+  },
+  "keywords": [
+    "passport",
+    "unsplash",
+    "strategy",
+    "auth",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "RoberTu",
+    "email": "robertu0717@gmail.com",
+    "url": "https://github.com/RoberMac"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "passport-oauth2": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/RoberMac/passport-unsplash/issues"
+  },
+  "homepage": "https://github.com/RoberMac/passport-unsplash#readme"
+}
